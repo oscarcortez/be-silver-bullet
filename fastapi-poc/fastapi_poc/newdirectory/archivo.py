@@ -1,3 +1,3 @@
 class algo:
-    def printer():
+    def printer(self):
         return 'algo'

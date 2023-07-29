@@ -12,6 +12,8 @@ fastapi = "^0.100.1"
 pydantic = "^2.1.1"
 sqlalchemy = "^2.0.19"
 uvicorn = "^0.23.1"
+psycopg2 = "^2.9.6"
+orjson = "^3.9.2"
 
 
 [build-system]
